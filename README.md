@@ -5,8 +5,10 @@ This is the Tailwind base template for [Create React App](https://github.com/fac
 ## Usage
 
 ```bash
-npm init react-app@next folder-name --scripts-version=@agney/rs-tailwind --template=tailwind
+npm init react-app folder-name --scripts-version=@agney/rs-tailwind --template=tailwind
 ```
+
+* Requires `create-react-app` 3.3.0 or higher.
 
 For more information, please refer to:
 
