@@ -1,12 +1,11 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="text-center">
       <header className="bg-gray-800 text-white flex flex-col items-center justify-center min-h-screen text-3xl">
-        <img src={logo} className="App-logo pointer-events-none h-40min" alt="logo" />
+        <img src={logo} className="pointer-events-none h-40min animate-spin" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
